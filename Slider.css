@@ -1,0 +1,15 @@
+/* CSS style for centering the image and setting its size */
+body {
+     text-align: center;
+}
+
+#myimages {
+
+     width: 500px;
+     height: 500px;
+     display: block;
+     margin: 0 auto;
+     /* Center align the image */
+
+
+}
